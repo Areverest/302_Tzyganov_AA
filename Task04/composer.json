@@ -1,0 +1,17 @@
+{
+    "name": "lexa/task04",
+    "autoload": {
+        "psr-4": {
+            "lexa\\Task04\\": "src/"
+        },
+        "files": [
+            "src/Test.php",
+            "src/compareStrings.php"
+        ]
+    },
+    "authors": [{
+        "name": "Alexei-Tsiganov",
+        "email": "a.tsyganov2001@yandex.ru"
+    }],
+    "require": {}
+}
