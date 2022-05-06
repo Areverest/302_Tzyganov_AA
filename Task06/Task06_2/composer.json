@@ -1,0 +1,19 @@
+{
+    "name": "lexa/task06_2",
+    "autoload": {
+        "psr-4": {
+            "lexa\\Task062\\": [
+                "src/",
+                "tests/Unit/"
+            ]
+        }
+    },
+    "authors": [{
+        "name": "lexa",
+        "email": "a.tsyganov2001@yandex.ru"
+    }],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "squizlabs/php_codesniffer": "^3.6"
+    }
+}
